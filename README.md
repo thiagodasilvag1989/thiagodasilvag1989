@@ -10,7 +10,8 @@ Sou Desenvolvedor focado em ecossistemas de alta performance, atualmente atuando
 Como minhas contribuições atuais ocorrem em repositórios privados da organização, compilei os dados de atividade para demonstrar meu ritmo e impacto técnico:
 
 ### 🟩 Heatmap de Contribuições - 2025
-![Heatmap de Atividade](svgviewer-output.svg)
+![Heatmap de Atividade](svgviewer.svg)
+
 *Visualização do volume diário de commits em projetos core da Avitaseg.*
 
 ---
