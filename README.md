@@ -1,7 +1,7 @@
 
 # Olá, eu sou o Thiago Silva 👋
 
-Sou Desenvolvedor focado em ecossistemas de alta performance, atualmente atuando na **Avitaseg**. Especialista em transformar regras de negócio complexas em soluções técnicas escaláveis usando .NET e Python.
+Sou Desenvolvedor focado em ecossistemas de alta performance, atualmente atuando na **Avitaseg**. Especialista em transformar regras de negócio complexas em soluções técnicas escaláveis usando .NET.
 
 ---
 
@@ -24,7 +24,7 @@ Como minhas contribuições atuais ocorrem em repositórios privados da organiza
 - **Back-end & APIs:** Arquitetura de microserviços e jobs com `.NET Core`.
 - **Database Engineering:** Gestão de schemas e migrações complexas com `Liquibase` e `SQL Server`.
 - **Data Engineering:** Pipelines de processamento de dados alfandegários (ETL) utilizando `Python` e `Jupyter Notebooks`.
-- **Bibliotecas Core:** Manutenção de libraries compartilhadas (`avt-helpers`, `sga-business`) que sustentam diversos sistemas da companhia.
+- **Bibliotecas Core:** Manutenção de libraries compartilhadas que sustentam diversos sistemas da companhia.
 
 ---
 
